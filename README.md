@@ -44,8 +44,8 @@ Site administration → Server → Moodle Adminer
 
 ---
 
-## Update Terbaru
-Project masih dalam tahap pengembangan.
+## Update Lokal
+Perubahan ini dibuat dari lokal
 
 ---
 
