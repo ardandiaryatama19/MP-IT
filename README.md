@@ -3,6 +3,11 @@ Moodle Pembelajaran Teknik Jaringan Komputer dan Telekomunikasi
 
 ---
 
+## Tampilan Sistem
+![Moodle](moodle.png)
+
+---
+
 ## Deskripsi
 Project ini merupakan pengembangan Learning Management System (LMS) berbasis Moodle yang digunakan untuk pembelajaran Teknik Jaringan Komputer dan Telekomunikasi.
 
