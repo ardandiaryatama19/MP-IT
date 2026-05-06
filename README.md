@@ -45,7 +45,7 @@ Site administration → Server → Moodle Adminer
 ---
 
 ## Update Lokal
-Perubahan ini dibuat dari lokal
+Perubahan dilakukan dari komputer lokal
 
 ---
 
