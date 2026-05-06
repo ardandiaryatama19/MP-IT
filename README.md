@@ -1,30 +1,43 @@
-<<<<<<< HEAD
-## Readme
-
-Moodle Adminer is based on the great tool adminer (www.adminer.org).
-The main advantage of this plugin is, it can handle different types of database.
-So it works with MySQL, PostgreSQL, Oracle and MSSQL.
-
-Moodle Adminer is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-Moodle Adminer is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You can receive a copy of the GNU General Public License
-at <http:www.gnu.org/licenses/>.
-
-### Installation:
-To install Moodle Adminer just copy the folder "adminer" into your moodle/local/adminer.
-After that you have to go to http://your-moodle/admin (Site administration -> Notifications) to trigger the installation process.
-
-### Using:
-To use Moodle Adminer go to "Site administration" -> "Server" -> "Moodle Adminer".
-=======
 # MP-IT
-Moodle pembelajaran Teknik Jaringan Komputer dan Telekomunikasi
->>>>>>> e0d8cf1b9be13bab01e9556f6823bd509572b5ae
+Moodle Pembelajaran Teknik Jaringan Komputer dan Telekomunikasi
+
+---
+
+## Deskripsi
+Project ini merupakan pengembangan Learning Management System (LMS) berbasis Moodle yang digunakan untuk pembelajaran Teknik Jaringan Komputer dan Telekomunikasi.
+
+Pada project ini ditambahkan plugin **Adminer** untuk mempermudah pengelolaan database secara langsung melalui antarmuka web.
+
+---
+
+## Tentang Plugin Adminer
+Moodle Adminer merupakan plugin yang berbasis dari tool Adminer (www.adminer.org).
+
+Keunggulan plugin ini:
+- Mendukung berbagai jenis database
+- MySQL
+- PostgreSQL
+- Oracle
+- Microsoft SQL Server
+
+---
+
+## Installation
+1. Salin folder `adminer` ke:
+   moodle/local/adminer
+
+2. Buka:
+   http://localhost/moodle/admin
+
+3. Masuk ke:
+   Site administration → Notifications
+
+---
+
+## Penggunaan
+Site administration → Server → Moodle Adminer
+
+---
+
+## Author
+Ardandi Aryatama
