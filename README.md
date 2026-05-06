@@ -44,5 +44,10 @@ Site administration → Server → Moodle Adminer
 
 ---
 
+## Update
+Project sedang dikembangkan lebih lanjut
+
+---
+
 ## Author
 Ardandi Aryatama
