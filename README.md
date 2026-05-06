@@ -44,8 +44,8 @@ Site administration → Server → Moodle Adminer
 
 ---
 
-## Update
-Project sedang dikembangkan lebih lanjut
+## Update Terbaru
+Project masih dalam tahap pengembangan.
 
 ---
 
