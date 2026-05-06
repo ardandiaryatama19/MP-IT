@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Readme
 
 Moodle Adminer is based on the great tool adminer (www.adminer.org).
@@ -23,3 +24,7 @@ After that you have to go to http://your-moodle/admin (Site administration -> No
 
 ### Using:
 To use Moodle Adminer go to "Site administration" -> "Server" -> "Moodle Adminer".
+=======
+# MP-IT
+Moodle pembelajaran Teknik Jaringan Komputer dan Telekomunikasi
+>>>>>>> e0d8cf1b9be13bab01e9556f6823bd509572b5ae
