@@ -50,4 +50,4 @@ Perubahan dilakukan dari komputer lokal
 ---
 
 ## Author
-Ardandi Aryatama
+Bhamana Artantyo, Moch. Pandu Wicaksono, Ardandi Ilham Aryatama
